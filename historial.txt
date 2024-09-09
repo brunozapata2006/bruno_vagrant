@@ -1,0 +1,40 @@
+    1  vagrant status
+    2  repogit/
+    3  ls -la
+    4  cd ..
+    5  ls
+    6  cd ..
+    7  ls
+    8  cd ..
+    9  cd
+   10  repogit/
+   11  ls -la
+   12  ssh-keygen -t ed25519
+   13  ls -la
+   14  cd .ssh
+   15  ls
+   16  cat id_ed25519
+   17  cat id_ed25519.pub
+   18  cd ..
+   19  ls
+   20  cd repogit/
+   21  ls
+   22  cd ..
+   23  ls
+   24  cd bruno_vagrant/
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd repogit/
+   29  ls
+   30  git clone git@github.com:brunozapata2006/bruno_vagrant.git
+   31  ls
+   32  cd bruno_vagrant/
+   33  ls
+   34  cd .
+   35  cd ..
+   36  ls
+   37  cd bruno_vagrant/
+   38  ls
+   39  history
+   40  history > historial.txt
